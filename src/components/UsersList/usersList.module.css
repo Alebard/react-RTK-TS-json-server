@@ -1,0 +1,9 @@
+.wrapper {
+    height: 80px;
+    overflow-y: auto;
+    width: 700px;
+    margin: 0 auto;
+}
+.wrapper table{
+    width: 695px;
+}
